@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microscopic vehicle movement | Chaogui Kang</title>
+    <link>https://cgkang.github.io/tags/microscopic-vehicle-movement/</link>
+      <atom:link href="https://cgkang.github.io/tags/microscopic-vehicle-movement/index.xml" rel="self" type="application/rss+xml" />
+    <description>Microscopic vehicle movement</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgkang.github.io/img/icon-192.png</url>
+      <title>Microscopic vehicle movement</title>
+      <link>https://cgkang.github.io/tags/microscopic-vehicle-movement/</link>
+    </image>
+    
+    <item>
+      <title>Predicting vehicular emissions in high spatial resolution using pervasively measured transportation data and microscopic emissions model</title>
+      <link>https://cgkang.github.io/publication/nyhan-2016352/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/nyhan-2016352/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

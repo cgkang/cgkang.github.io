@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lun Wu | Chaogui Kang</title>
+    <link>https://cgkang.github.io/authors/lun-wu/</link>
+      <atom:link href="https://cgkang.github.io/authors/lun-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lun Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgkang.github.io/img/icon-192.png</url>
+      <title>Lun Wu</title>
+      <link>https://cgkang.github.io/authors/lun-wu/</link>
+    </image>
+    
+    <item>
+      <title>A framework for mixed-use decomposition based on temporal activity signatures extracted from big geo-data</title>
+      <link>https://cgkang.github.io/publication/doi-10-1080-17538947-2018-1556353/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/doi-10-1080-17538947-2018-1556353/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Tourist Behavior Patterns by Travel Motifs and Geo-Tagged Photos from Flickr</title>
+      <link>https://cgkang.github.io/publication/ijgi-6110345/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/ijgi-6110345/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Estimating Urban Population Distributions from Mobile Call Data</title>
+      <link>https://cgkang.github.io/publication/doi-10-1080-10630732-2012-715479/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/doi-10-1080-10630732-2012-715479/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

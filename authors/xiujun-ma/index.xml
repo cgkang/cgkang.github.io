@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiujun Ma | Chaogui Kang</title>
+    <link>https://cgkang.github.io/authors/xiujun-ma/</link>
+      <atom:link href="https://cgkang.github.io/authors/xiujun-ma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiujun Ma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgkang.github.io/img/icon-192.png</url>
+      <title>Xiujun Ma</title>
+      <link>https://cgkang.github.io/authors/xiujun-ma/</link>
+    </image>
+    
+    <item>
+      <title>Inferring properties and revealing geographical impacts of intercity mobile communication network of China using a subnet data set</title>
+      <link>https://cgkang.github.io/publication/doi-10-1080-13658816-2012-689838/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/doi-10-1080-13658816-2012-689838/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intra-urban human mobility patterns: An urban morphology perspective</title>
+      <link>https://cgkang.github.io/publication/kang-20121702/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/kang-20121702/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Estimating Urban Population Distributions from Mobile Call Data</title>
+      <link>https://cgkang.github.io/publication/doi-10-1080-10630732-2012-715479/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/doi-10-1080-10630732-2012-715479/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

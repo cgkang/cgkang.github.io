@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stanislav Sobolevsky | Chaogui Kang</title>
+    <link>https://cgkang.github.io/authors/stanislav-sobolevsky/</link>
+      <atom:link href="https://cgkang.github.io/authors/stanislav-sobolevsky/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stanislav Sobolevsky</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgkang.github.io/img/icon-192.png</url>
+      <title>Stanislav Sobolevsky</title>
+      <link>https://cgkang.github.io/authors/stanislav-sobolevsky/</link>
+    </image>
+    
+    <item>
+      <title>Predicting vehicular emissions in high spatial resolution using pervasively measured transportation data and microscopic emissions model</title>
+      <link>https://cgkang.github.io/publication/nyhan-2016352/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/nyhan-2016352/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of social segregation on human mobility in developing and industrialized regions</title>
+      <link>https://cgkang.github.io/publication/amini-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/amini-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

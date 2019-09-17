@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Chaogui Kang</title>
+    <link>https://cgkang.github.io/tags/</link>
+      <atom:link href="https://cgkang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgkang.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://cgkang.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>Air quality</title>
+      <link>https://cgkang.github.io/tags/air-quality/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/tags/air-quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital trace</title>
+      <link>https://cgkang.github.io/tags/digital-trace/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/tags/digital-trace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emissions</title>
+      <link>https://cgkang.github.io/tags/emissions/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/tags/emissions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Habitual operation behavior</title>
+      <link>https://cgkang.github.io/tags/habitual-operation-behavior/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/tags/habitual-operation-behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix factorization</title>
+      <link>https://cgkang.github.io/tags/matrix-factorization/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/tags/matrix-factorization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microscopic emissions model</title>
+      <link>https://cgkang.github.io/tags/microscopic-emissions-model/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/tags/microscopic-emissions-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microscopic vehicle movement</title>
+      <link>https://cgkang.github.io/tags/microscopic-vehicle-movement/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/tags/microscopic-vehicle-movement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taxicab mobility</title>
+      <link>https://cgkang.github.io/tags/taxicab-mobility/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/tags/taxicab-mobility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transportation</title>
+      <link>https://cgkang.github.io/tags/transportation/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/tags/transportation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel demand-supply</title>
+      <link>https://cgkang.github.io/tags/travel-demand-supply/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/tags/travel-demand-supply/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intra-urban human mobility</title>
+      <link>https://cgkang.github.io/tags/intra-urban-human-mobility/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/tags/intra-urban-human-mobility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monte Carlo simulation</title>
+      <link>https://cgkang.github.io/tags/monte-carlo-simulation/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/tags/monte-carlo-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial heterogeneity constrained Levy flight model</title>
+      <link>https://cgkang.github.io/tags/spatial-heterogeneity-constrained-levy-flight-model/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/tags/spatial-heterogeneity-constrained-levy-flight-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban morphology</title>
+      <link>https://cgkang.github.io/tags/urban-morphology/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/tags/urban-morphology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Song Gao | Chaogui Kang</title>
+    <link>https://cgkang.github.io/authors/song-gao/</link>
+      <atom:link href="https://cgkang.github.io/authors/song-gao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Song Gao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgkang.github.io/img/icon-192.png</url>
+      <title>Song Gao</title>
+      <link>https://cgkang.github.io/authors/song-gao/</link>
+    </image>
+    
+    <item>
+      <title>Social Sensing: A New Approach to Understanding Our Socioeconomic Environments</title>
+      <link>https://cgkang.github.io/publication/doi-10-1080-00045608-2015-1018773/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/doi-10-1080-00045608-2015-1018773/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding intra-urban trip patterns from taxi trajectory data</title>
+      <link>https://cgkang.github.io/publication/liu-2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/liu-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qingxiang Meng | Chaogui Kang</title>
+    <link>https://cgkang.github.io/authors/qingxiang-meng/</link>
+      <atom:link href="https://cgkang.github.io/authors/qingxiang-meng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qingxiang Meng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgkang.github.io/img/icon-192.png</url>
+      <title>Qingxiang Meng</title>
+      <link>https://cgkang.github.io/authors/qingxiang-meng/</link>
+    </image>
+    
+    <item>
+      <title>Understanding the interplay between bus, metro, and cab ridership dynamics in Shenzhen, China</title>
+      <link>https://cgkang.github.io/publication/doi-10-1111-tgis-12340/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/doi-10-1111-tgis-12340/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

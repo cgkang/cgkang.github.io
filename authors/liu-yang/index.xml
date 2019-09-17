@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liu Yang | Chaogui Kang</title>
+    <link>https://cgkang.github.io/authors/liu-yang/</link>
+      <atom:link href="https://cgkang.github.io/authors/liu-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liu Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgkang.github.io/img/icon-192.png</url>
+      <title>Liu Yang</title>
+      <link>https://cgkang.github.io/authors/liu-yang/</link>
+    </image>
+    
+    <item>
+      <title>Quantifying Tourist Behavior Patterns by Travel Motifs and Geo-Tagged Photos from Flickr</title>
+      <link>https://cgkang.github.io/publication/ijgi-6110345/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/ijgi-6110345/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

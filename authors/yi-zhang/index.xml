@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yi Zhang | Chaogui Kang</title>
+    <link>https://cgkang.github.io/authors/yi-zhang/</link>
+      <atom:link href="https://cgkang.github.io/authors/yi-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yi Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgkang.github.io/img/icon-192.png</url>
+      <title>Yi Zhang</title>
+      <link>https://cgkang.github.io/authors/yi-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Inferring properties and revealing geographical impacts of intercity mobile communication network of China using a subnet data set</title>
+      <link>https://cgkang.github.io/publication/doi-10-1080-13658816-2012-689838/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/doi-10-1080-13658816-2012-689838/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

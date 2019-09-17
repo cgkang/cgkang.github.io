@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander Amini | Chaogui Kang</title>
+    <link>https://cgkang.github.io/authors/alexander-amini/</link>
+      <atom:link href="https://cgkang.github.io/authors/alexander-amini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexander Amini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgkang.github.io/img/icon-192.png</url>
+      <title>Alexander Amini</title>
+      <link>https://cgkang.github.io/authors/alexander-amini/</link>
+    </image>
+    
+    <item>
+      <title>The impact of social segregation on human mobility in developing and industrialized regions</title>
+      <link>https://cgkang.github.io/publication/amini-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/amini-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

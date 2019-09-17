@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuan Tian | Chaogui Kang</title>
+    <link>https://cgkang.github.io/authors/yuan-tian/</link>
+      <atom:link href="https://cgkang.github.io/authors/yuan-tian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuan Tian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgkang.github.io/img/icon-192.png</url>
+      <title>Yuan Tian</title>
+      <link>https://cgkang.github.io/authors/yuan-tian/</link>
+    </image>
+    
+    <item>
+      <title>Understanding intra-urban trip patterns from taxi trajectory data</title>
+      <link>https://cgkang.github.io/publication/liu-2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/liu-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

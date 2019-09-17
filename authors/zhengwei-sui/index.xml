@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhengwei Sui | Chaogui Kang</title>
+    <link>https://cgkang.github.io/authors/zhengwei-sui/</link>
+      <atom:link href="https://cgkang.github.io/authors/zhengwei-sui/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhengwei Sui</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgkang.github.io/img/icon-192.png</url>
+      <title>Zhengwei Sui</title>
+      <link>https://cgkang.github.io/authors/zhengwei-sui/</link>
+    </image>
+    
+    <item>
+      <title>Uncovering Patterns of Inter-Urban Trip and Spatial Interaction from Social Media Check-In Data</title>
+      <link>https://cgkang.github.io/publication/10-1371-journal-pone-0086026/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/10-1371-journal-pone-0086026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

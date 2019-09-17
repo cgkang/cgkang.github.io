@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Chaogui Kang</title>
+    <link>https://cgkang.github.io/project/</link>
+      <atom:link href="https://cgkang.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Sep 2019 13:27:19 -0400</lastBuildDate>
+    <image>
+      <url>https://cgkang.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://cgkang.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Human Mobility</title>
+      <link>https://cgkang.github.io/project/human-mobility/</link>
+      <pubDate>Tue, 17 Sep 2019 13:27:19 -0400</pubDate>
+      <guid>https://cgkang.github.io/project/human-mobility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Complexity</title>
+      <link>https://cgkang.github.io/project/urban-complexity/</link>
+      <pubDate>Tue, 17 Sep 2019 13:27:05 -0400</pubDate>
+      <guid>https://cgkang.github.io/project/urban-complexity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Computing</title>
+      <link>https://cgkang.github.io/project/urban-computing/</link>
+      <pubDate>Tue, 17 Sep 2019 13:19:44 -0400</pubDate>
+      <guid>https://cgkang.github.io/project/urban-computing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

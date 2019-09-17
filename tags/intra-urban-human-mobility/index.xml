@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intra-urban human mobility | Chaogui Kang</title>
+    <link>https://cgkang.github.io/tags/intra-urban-human-mobility/</link>
+      <atom:link href="https://cgkang.github.io/tags/intra-urban-human-mobility/index.xml" rel="self" type="application/rss+xml" />
+    <description>Intra-urban human mobility</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgkang.github.io/img/icon-192.png</url>
+      <title>Intra-urban human mobility</title>
+      <link>https://cgkang.github.io/tags/intra-urban-human-mobility/</link>
+    </image>
+    
+    <item>
+      <title>Intra-urban human mobility patterns: An urban morphology perspective</title>
+      <link>https://cgkang.github.io/publication/kang-20121702/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/kang-20121702/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
