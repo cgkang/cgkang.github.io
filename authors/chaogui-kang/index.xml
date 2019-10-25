@@ -5,12 +5,20 @@
     <link>https://cgkang.github.io/authors/chaogui-kang/</link>
       <atom:link href="https://cgkang.github.io/authors/chaogui-kang/index.xml" rel="self" type="application/rss+xml" />
     <description>Chaogui Kang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cgkang.github.io/img/icon-192.png</url>
       <title>Chaogui Kang</title>
       <link>https://cgkang.github.io/authors/chaogui-kang/</link>
     </image>
+    
+    <item>
+      <title>Escaping from pollution: The effect of air quality on inter-city population mobility in China</title>
+      <link>https://cgkang.github.io/publication/10-1088-1748-9326-ab-5039/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/10-1088-1748-9326-ab-5039/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A framework for mixed-use decomposition based on temporal activity signatures extracted from big geo-data</title>
