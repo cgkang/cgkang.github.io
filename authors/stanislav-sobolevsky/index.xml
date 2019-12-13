@@ -5,12 +5,20 @@
     <link>https://cgkang.github.io/authors/stanislav-sobolevsky/</link>
       <atom:link href="https://cgkang.github.io/authors/stanislav-sobolevsky/index.xml" rel="self" type="application/rss+xml" />
     <description>Stanislav Sobolevsky</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cgkang.github.io/img/icon-192.png</url>
       <title>Stanislav Sobolevsky</title>
       <link>https://cgkang.github.io/authors/stanislav-sobolevsky/</link>
     </image>
+    
+    <item>
+      <title>Modeling Spatio-Temporal Evolution of Urban Crowd Flows</title>
+      <link>https://cgkang.github.io/publication/ijgi-8120570/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/ijgi-8120570/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predicting vehicular emissions in high spatial resolution using pervasively measured transportation data and microscopic emissions model</title>

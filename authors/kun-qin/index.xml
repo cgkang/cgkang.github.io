@@ -5,12 +5,20 @@
     <link>https://cgkang.github.io/authors/kun-qin/</link>
       <atom:link href="https://cgkang.github.io/authors/kun-qin/index.xml" rel="self" type="application/rss+xml" />
     <description>Kun Qin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cgkang.github.io/img/icon-192.png</url>
       <title>Kun Qin</title>
       <link>https://cgkang.github.io/authors/kun-qin/</link>
     </image>
+    
+    <item>
+      <title>Modeling Spatio-Temporal Evolution of Urban Crowd Flows</title>
+      <link>https://cgkang.github.io/publication/ijgi-8120570/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/ijgi-8120570/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Understanding the interplay between bus, metro, and cab ridership dynamics in Shenzhen, China</title>
