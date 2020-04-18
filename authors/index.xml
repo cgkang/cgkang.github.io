@@ -5,12 +5,36 @@
     <link>https://cgkang.github.io/authors/</link>
       <atom:link href="https://cgkang.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cgkang.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://cgkang.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Chaogui Kang</title>
+      <link>https://cgkang.github.io/authors/chaogui-kang/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/authors/chaogui-kang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dongwan Fan</title>
+      <link>https://cgkang.github.io/authors/dongwan-fan/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/authors/dongwan-fan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hongzan Jiao</title>
+      <link>https://cgkang.github.io/authors/hongzan-jiao/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/authors/hongzan-jiao/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Beibei Niu</title>
@@ -25,14 +49,6 @@
       <link>https://cgkang.github.io/authors/can-cui/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://cgkang.github.io/authors/can-cui/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chaogui Kang</title>
-      <link>https://cgkang.github.io/authors/chaogui-kang/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cgkang.github.io/authors/chaogui-kang/</guid>
       <description></description>
     </item>
     

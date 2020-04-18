@@ -5,7 +5,7 @@
     <link>https://cgkang.github.io/</link>
       <atom:link href="https://cgkang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Chaogui Kang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Sep 2019 13:27:19 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cgkang.github.io/img/icon-192.png</url>
       <title>Chaogui Kang</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Projects</title>
-      <link>https://cgkang.github.io/project/</link>
-      <pubDate>Tue, 17 Sep 2019 13:27:19 -0400</pubDate>
-      <guid>https://cgkang.github.io/project/</guid>
+      <title>Publications</title>
+      <link>https://cgkang.github.io/publication/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cgkang.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://cgkang.github.io/publication/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cgkang.github.io/publication/</guid>
+      <title>Projects</title>
+      <link>https://cgkang.github.io/project/</link>
+      <pubDate>Tue, 17 Sep 2019 13:27:19 -0400</pubDate>
+      <guid>https://cgkang.github.io/project/</guid>
       <description></description>
     </item>
     
